@@ -11,8 +11,8 @@ Basic syntaxes and codes for solidity smart contracts.
    <li>Functions : basic syntaxes of functions.</li>
    <li>Constructors : basic syntaxes of constructors.</li>
    <li>Modifiers : basic sytanxes of modifiers.</li>
-   <li>Custom Modifiers : basics syntaxes of custom modifiers</li>
-   <li>Operators</li>
+   <li>Custom Modifiers : basics syntaxes of custom modifiers.</li>
+   <li>Operators : basics syntaxes of operators in solidity.</li>
    <li>Global variables</li>
    <li>Conditional statements</li>
    <li>Arrays</li>
