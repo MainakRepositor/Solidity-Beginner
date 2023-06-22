@@ -17,7 +17,7 @@ Basic syntaxes and codes for solidity smart contracts.
    <li>Conditional statements : basics syntaxes of conditional statements in solidity.</li>
    <li>Arrays : basics syntaxes of using arrays in solidity.</li>
    <li>Mappings : basics syntaxes of mapping in solidity.</li>
-   <li>Structures</li>
+   <li>Structures : basics syntaxes of using structure data type.</li>
    <li>Ethers</li>
    <li>Errors</li>
    <li>Events</li>
