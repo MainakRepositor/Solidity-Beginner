@@ -1,4 +1,6 @@
 # Solidity-Beginner
+![image](https://github.com/MainakRepositor/Solidity-Beginner/assets/64016811/7c8204b6-635a-4fc7-905c-515f58be58f9)
+
 Basic syntaxes and codes for solidity smart contracts
 
 ## Topics:
