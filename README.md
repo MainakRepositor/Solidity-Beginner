@@ -19,7 +19,7 @@ Basic syntaxes and codes for solidity smart contracts.
    <li>Mappings : basics syntaxes of mapping in solidity.</li>
    <li>Structures : basics syntaxes of using structure data type.</li>
    <li>Ethers : basics syntaxes of using ethers in solidity.</li>
-   <li>Errors</li>
+   <li>Errors : basics syntaxes and understandings of errors in solidity.</li>
    <li>Events</li>
    <li>Calling Other Contracts</li>
    <li>Interfaces</li>
