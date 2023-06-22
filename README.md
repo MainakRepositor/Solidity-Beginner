@@ -10,7 +10,7 @@ Basic syntaxes and codes for solidity smart contracts.
    <li>Access specifiers : such as public, private, internal and external.</li>
    <li>Functions : basic syntaxes of functions.</li>
    <li>Constructors : basic syntaxes of constructors.</li>
-   <li>Modifiers</li>
+   <li>Modifiers : basic sytanxes of modifiers.</li>
    <li>Custom Modifiers</li>
    <li>Operators</li>
    <li>Global variables</li>
