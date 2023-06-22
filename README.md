@@ -22,6 +22,6 @@ Basic syntaxes and codes for solidity smart contracts.
    <li>Errors : basics syntaxes and understandings of errors in solidity.</li>
    <li>Events : basics syntaxes of events in solidity.</li>
    <li>Calling Other Contracts : basics syntaxes of calling other contracts.</li>
-   <li>Interfaces</li>
+   <li>Interfaces : basics syntaxes of interfaces in solidity.</li>
    
  </ol>
