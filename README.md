@@ -6,7 +6,7 @@ Basic syntaxes and codes for solidity smart contracts
 ## Topics:
 
  <ol>
-   <li>Data Types</li>
+   <li>Data Types : basic data-types and syntaxes</li> 
    <li>Access specifiers</li>
    <li>Functions</li>
    <li>Constructors</li>
