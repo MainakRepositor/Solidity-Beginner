@@ -9,3 +9,38 @@ contract MyContract{
     uint public value5 = 1 ether;
     uint public value6 = 1000000000000000000;
 }
+
+// receive function
+contract MyContract{
+    receive() external payable{}
+}
+
+// fallback function
+
+contract MyContract
+{
+    uint public count = 0;
+    fallback() external payable{
+    count++;
+    }
+    
+}
+
+// check balance
+contract myContract{
+    function checkBalance() public view returns (uint) {
+    return address(this).balance;
+    }
+}
+
+// transfer ethers
+contract myContract
+{
+    function transfer(address payable _to) public payable {
+    msg.sender;
+    (bool sent, ) = _to.call{value: msg.value}("");
+    require(sent, "Failed");
+    }
+}
+
+
